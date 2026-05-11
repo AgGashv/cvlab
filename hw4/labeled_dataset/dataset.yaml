@@ -1,0 +1,6 @@
+path: C:\Users\admin\Desktop\MAI\CV\cvlab1\hw4\labeled_dataset
+train: images/train
+val: images/val
+
+nc: 1
+names: ['detail']
